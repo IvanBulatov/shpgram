@@ -34,10 +34,6 @@ export default {
       this.socket.emit('chat message', { sender: this.username, text: this.text, receiver: this.receiver })
     }
   },
-  mounted() {
-    // this.handleConnect()
-    console.log('Первое изменение в проекте! Ураа! ))')
-  }
 };
 </script>
 

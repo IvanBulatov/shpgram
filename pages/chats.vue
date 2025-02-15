@@ -40,7 +40,6 @@ export default {
         { id: 1, name: "Ivan", messages: [] },
         { id: 2, name: "Anton", messages: [] },
       ],
-      messages: [],
       selectedChat: null, // { id: 1, name: "Ivan", messages: [] },
       username: '',
       connect: false

@@ -36,6 +36,7 @@ export default {
   },
   mounted() {
     // this.handleConnect()
+    console.log('Первое изменение в проекте! Ураа! ))')
   }
 };
 </script>

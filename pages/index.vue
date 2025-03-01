@@ -40,6 +40,7 @@ export default {
 <template>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <h2>Всем разрабам привет. Я стажёр, но уже положил всю базу данных )) Извините ...</h2>
   <div class="container py-3">
     <h1>Чат</h1>
   </div>

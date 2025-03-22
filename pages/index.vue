@@ -42,6 +42,8 @@ export default {
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <h2>Всем разрабам привет. Я стажёр, но уже положил всю базу данных )) Извините ...</h2>
   <h2>Антон, ты уволен...</h2>
+  <NuxtLink to="/test">Тестовая</NuxtLink>
+
   <div class="container py-3">
     <h1>Чат</h1>
   </div>
